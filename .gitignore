@@ -1,0 +1,13 @@
+# Ignore the GTest directory
+GTest/
+
+# Ignore build directories
+build/
+
+# Ignore other files that should not be tracked
+*.o
+*.exe
+*.so
+*.dll
+.DS_Store
+
